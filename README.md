@@ -31,7 +31,7 @@ This blog system allows users to read, create, edit, and comment on posts. Admin
 
 ```bash
 # Backend
-Laravel 9.x
+Laravel 11.x
 
 # Frontend
 Blade templates
